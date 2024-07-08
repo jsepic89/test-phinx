@@ -5,7 +5,7 @@ This project simulates battles between Pokémon using a backend built with NestJ
 
 ## Screenshot
 
-![app screenshot](image.png)
+![app screenshot](pokemon-battle-screenshot.png)
 
 
 ## Installation
